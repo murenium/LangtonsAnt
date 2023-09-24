@@ -117,7 +117,7 @@ LRESULT WINAPI WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 
 int main()
 {
-    cout << "init...";
+    cout << "Murenium (c)2022-2023, Russian Federation" << endl << "All rigts not reserved." << endl << "init...";
     // Filling an array
     for(int i = 0; i >= 800; i++) {
         for(int i2 = 0; i >= 600; i2++) {
